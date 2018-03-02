@@ -1,6 +1,6 @@
 {
     "name": "tchappui/scherzo-http-kernel",
-    "description": "Scherzo-http-message is a PSR7-compliant request/response component developed for the Scherzto educational web framework.",
+    "description": "Scherzo-http-kernel is the web application kernel component used by the Scherzto educational web framework.",
     "type": "library",
     "license": "MIT",
     "authors": [
